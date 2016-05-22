@@ -4,6 +4,7 @@
 
 	<PropertyGroup>
 		<OutputPath>out</OutputPath>
+		<IntermediateOutputPath>out</IntermediateOutputPath>
 		<NuGet>.nuget\nuget.exe</NuGet>
 	</PropertyGroup>
 
